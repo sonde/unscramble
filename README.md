@@ -9,7 +9,7 @@ not necessarily the intended sentence as a large dictionary result in multiple m
 
 Example: `elhloothtedrowl => hello to the world`
 
-# Examples:
+## Examples:
 ```
 $ go build
 $ unscramble imaatactonagod
